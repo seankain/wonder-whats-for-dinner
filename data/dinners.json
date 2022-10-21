@@ -1,0 +1,231 @@
+{
+    "recipes": [
+        {
+            "Name": "Veggie Bibimbap Rice Bowl",
+            "Source": "Hello Fresh",
+            "Ingredients": [
+                {"name":"Zucchini", "Count":1, "Unit":"Whole"},
+                {"name":"Button Mushrooms","Count":4,"Unit":"Ounce"},
+                {"name":"Scallions","Count":2,"Unit": "Whole"},
+                {"name":"Carrot","Count":3,"Unit":"Ounce"},
+                {"name":"Ginger","Count":1,"Unit":"Thumb"},
+                {"name":"Jasmine Rice","Count":0.25,"Unit":"Cup"},
+                {"name":"White Wine Vinegar","Count":5,"Unit":"Teaspoon"},
+                {"name":"Sesame Oil","Count":1, "Unit":"Tablespoon"},
+                {"name":"Sriracha","Count":1,"Unit":"Teaspoon"},
+                {"name":"Soy Sauce","Count":1.5,"Unit":"Tablespoon"},
+                {"name":"Egg","Count":2,"Unit":"Whole"}
+            ]
+        },
+        {
+            "name": "Mediterranean Baked Veggies",
+            "Source": "Hello Fresh",
+            "Ingredients": [
+                {"name":"Garlic", "Count":2, "Unit":"Cloves"},
+                {"name":"Asparagus","Count":8,"Unit":"Ounce"},
+                {"name":"Thyme","Count":0.25,"Unit": "Ounce"},
+                {"name":"Veggie Stock","Count":1,"Unit":"Cup"},
+                {"name":"Grape Tomatoes","Count":4,"Unit":"Ounce"},
+                {"name":"Scallions","Count":2,"Unit":"Whole"},
+                {"name":"Israeli Couscous","Count":0.75,"Unit":"Cup"},
+                {"name":"Feta Cheese","Count":0.5, "Unit":"Cup"}
+            ]
+        },
+        {
+            "name": "Black Bean Enchiladas Rojas",
+            "Source": "Hello Fresh"
+        },
+        {
+            "name": "Zucchini and Tomato Flatbreads",
+            "Source": "Hello Fresh"
+        },
+        {
+            "name": "Veggie Burrito Bowls",
+            "Source": "Hello Fresh"
+        },
+        {
+            "name": "Heirloom Tomato Flatbreads",
+            "Source": "Hello Fresh"
+        },
+        {
+            "name": "BBQ Pineapple Flat Breads",
+            "Source": "Hello Fresh"
+        },
+        {
+            "name": "BBQ Pineapple Flat Breads",
+            "Source": "Hello Fresh"
+        },
+        {
+            "name": "Garden Quesadillas",
+            "Source": "Hello Fresh"
+        },
+        {
+            "name": "Rajas Quesadillas",
+            "Source": "Hello Fresh"
+        },
+        {
+            "name": "Lemony Cheese Tortelloni",
+            "Source": "Hello Fresh"
+        },
+        {
+            "name": "Sweet Potato Fajitas",
+            "Source": "Hello Fresh"
+        },
+        {
+            "name": "Pasta Parmesean",
+            "Source": "Hello Fresh"
+        },
+        {
+            "name": "Roasted Veggie Caprese Bowl",
+            "Source": "Hello Fresh"
+        },
+        {
+            "name": "Roasted Veggie Farro Bowl",
+            "Source": "Hello Fresh"
+        },
+        {
+            "name": "Curry Spiced Cauliflower and Squash",
+            "Source": "Hello Fresh"
+        },
+        {
+            "name": "Hoisin Sesame Roasted Veggie Bowls",
+            "Source": "Hello Fresh"
+        },
+        {
+            "name": "Loaded Bean and Veggie Chili",
+            "Source": "Hello Fresh"
+        },
+        {
+            "name": "Black Bean Chili",
+            "Source": "Hello Fresh"
+        },
+        {
+            "name": "Paella Con Huevos",
+            "Source": "Hello Fresh"
+        },
+        {
+            "name": "Cauliflower Stir-Fry Bowls",
+            "Source": "Hello Fresh"
+        },
+        {
+            "name": "Veggie-Licious Tacos",
+            "Source": "Hello Fresh"
+        },
+        {
+            "name": "Farro, Kale & Sweet Potato Power Bowls",
+            "Source": "Hello Fresh"
+        },
+        {
+            "name": "Cheese Crusted Quesadillas",
+            "Source": "Hello Fresh"
+        },
+        {
+            "name": "Harrissa Sweet Potato Pita Pockets",
+            "Source": "Hello Fresh"
+        },
+        {
+            "name": "Cheesy Black Bean Enchilladas",
+            "Source": "Hello Fresh"
+        },
+        {
+            "name": "Roasted Vegetable Paella",
+            "Source": "Hello Fresh"
+        },
+        {
+            "name": "Mediterranean Hummus & Couscous Bowls",
+            "Source": "Hello Fresh"
+        },
+        {
+            "name": "Roasted Broccoli and Potato Chowder",
+            "Source": "Hello Fresh"
+        },
+        {
+            "name": "Creamy Corn and Potato Chowder",
+            "Source": "Hello Fresh"
+        },
+        {
+            "name": "Frijoles Fresca Bowls",
+            "Source": "Hello Fresh"
+        },
+        {
+            "name": "Southwest Stuffed Poblanos",
+            "Source": "Hello Fresh"
+        },
+        {
+            "name": "Veggie Tacos Al Pastor",
+            "Source": "Hello Fresh"
+        },
+        {
+            "name": "Grilled Cheese and Veggie Jumble",
+            "Source": "Hello Fresh"
+        },
+        {
+            "name": "Guacamole Green Goddess Bowl",
+            "Source": "Hello Fresh"
+        },
+        {
+            "name": "Yellow Squash Flatbreads",
+            "Source": "Hello Fresh"
+        },
+        {
+            "name": "Veggie Chiles Rellenos",
+            "Source": "Hello Fresh"
+        },
+        {
+            "name": "Cheesy Corn Tostadas",
+            "Source": "Hello Fresh"
+        },
+        {
+            "name": "Pear and Balsamic Onion Flatbreads",
+            "Source": "Hello Fresh"
+        },
+        {
+            "name": "Garden Quesadillas",
+            "Source": "Hello Fresh"
+        },
+        {
+            "name": "Roasted Garlic Herb Penne",
+            "Source": "Hello Fresh"
+        },
+        {
+            "name": "Sweet Potato and Black Bean Tacos",
+            "Source": "Hello Fresh"
+        },
+        {
+            "name": "Sweet Potato and Poblano Quesadillas",
+            "Source": "Hello Fresh"
+        },
+        {
+            "name": "Sweet Potato Fajitas",
+            "Source": "Hello Fresh"
+        },
+        {
+            "name": "Black Bean and Poblano Quesadillas",
+            "Source": "Hello Fresh"
+        },
+        {
+            "name": "Cheesy Black Bean Enchiladas",
+            "Source": "Hello Fresh"
+        },
+    ],
+    "takeout": [
+        {
+            "name": "Dominos"
+        },
+        {
+            "name": "Panera Bread"
+        },
+        {
+            "name": "Chipotle"
+        },
+        {
+            "name": "Chick-Fil-A"
+        },
+        {
+            "name": "Jerry's Subs and Pizza"
+        },
+        {
+            "name": "Burger King"
+        }
+    ]
+}
